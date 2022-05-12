@@ -3,7 +3,7 @@
 		<div class="content-wrapper">
 			<div class="content-inner">
 				<h1>Magento 2 Import Coupon Codes</h1>
-				<p>using<a href="https://www.mageants.com/import-coupon-codes-for-magento-2.html">Import Coupon Codes</a> extension, gives the store owner the perfect solution to save time in managing coupon codes by applying a few simple steps.</p>
+				<p>using<a href="https://www.mageants.com/import-coupon-codes-for-magento-2.html">Magento 2 Import Coupon Codes</a> extension, gives the store owner the perfect solution to save time in managing coupon codes by applying a few simple steps.</p>
 				
 <div class="features-wrapper">
 					<h2>Key Features</h2>
